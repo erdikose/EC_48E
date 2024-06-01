@@ -1,1 +1,1 @@
-### EC 48E
+### Financial Applications of ML
